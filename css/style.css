@@ -1015,6 +1015,7 @@ h6 {
 .character {
   background: #2a313c;
   padding-top: 30px;
+  height: 100vh;
 }
 .character__subtitle {
   color: #57B8FF;
